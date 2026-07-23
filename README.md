@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://muhammadibraheem-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=vercel"/>
 </a>
 
