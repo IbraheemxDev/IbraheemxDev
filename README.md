@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://muhammadibraheem-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
 </a>
 
 </div>
