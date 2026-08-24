@@ -4,6 +4,8 @@
 
 ### Full-Stack Developer · MERN & Next.js · BS Computer Science
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=8A6BFF&center=true&vCenter=true&width=480&lines=Full+Stack+MERN+Developer;Next.js+%7C+TypeScript+%7C+NestJS;Building+AI-Powered+Web+Apps" alt="Typing SVG" />
+
 <a href="https://github.com/IbraheemxDev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/muhammad-ibraheem-webdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ibraheem.codes@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -80,8 +82,8 @@ I'm a full-stack developer based in Lahore, Pakistan, currently pursuing a BS in
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IbraheemxDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbraheemxDev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=IbraheemxDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IbraheemxDev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
 </div>
 
 <br>
