@@ -91,11 +91,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 📈 GitHub Analytics
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IbraheemxDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbraheemxDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Top Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=IbraheemxDev&show_icons=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" alt="GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IbraheemxDev&layout=compact&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00E5FF&text_color=ffffff" alt="Top Languages"/>
 </div>
 
 <br>
