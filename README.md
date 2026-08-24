@@ -34,6 +34,7 @@
 *   💼 **Availability:** Open to impactful freelance projects and full-stack developer roles.
 
 <br>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
